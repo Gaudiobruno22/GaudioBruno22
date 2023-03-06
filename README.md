@@ -1,14 +1,12 @@
 
 <H2>Hello! Welcome to my Page!!</H2>
 
-- 🔭 I’m currently working on PL/SQL and Java Solutions.
 - 🌱 I’m currently learning about frameworks and how a complete Web Aplicattions run's.
-- 👯 I’m looking to collaborate on Repository classes for support and documentation of Services and Applications.
-- 🤔 I’m looking for help with Front End ideias for implementation of back-end logic.
-- 📫 How to reach me: https://www.linkedin.com/in/bruno-gaudio-4589271b7/
+- 🤔 Also looking for help with Front End ideias for implementation of back-end logic.
+- 📫 You can Reach me on my Social's media down below.
 - Any ideas or Colaborations are trully Welcome! </br></br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" "text-align: center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaudioBruno22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaudioBruno22&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
