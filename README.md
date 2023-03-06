@@ -6,11 +6,11 @@
 - 👯 I’m looking to collaborate on Repository classes for support and documentation of Services and Applications.
 - 🤔 I’m looking for help with Front End ideias for implementation of back-end logic.
 - 📫 How to reach me: https://www.linkedin.com/in/bruno-gaudio-4589271b7/
-- Any ideas or Colaborations are trully Welcome! </br>
+- Any ideas or Colaborations are trully Welcome! </br></br>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaudioBruno22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaudioBruno22&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: inline_block">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaudioBruno22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaudioBruno22&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
