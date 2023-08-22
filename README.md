@@ -1,8 +1,8 @@
 
 <H2>Muito Prazer! Me chamo Bruno Gaudio</H2>
 
-- 🌱 Atualmente estou trabalhando Com Aplicações Web e Implementação em Java || SpringBoot || Javascript.
-- 🤔 E para conhecer o Mundo do Full-Stack, Front-End com HTML || CSS e Angular.Js.
+- 🌱 Atualmente estou trabalhando Com Aplicações Web e Implementação em Java || SpringBoot || Javascript || PL/SQL.
+- 🤔 E para conhecer o Mundo do Full-Stack, Front-End com HTML || CSS e React.Js
 - Colaborações e Interações sempre serão Bem Vindas! </br></br>
 
 <div style="display: inline_block" "text-align: center">
