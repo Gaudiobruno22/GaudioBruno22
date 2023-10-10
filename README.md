@@ -1,5 +1,5 @@
 
-<H2>Muito Prazer! Me chamo Bruno Gaudio</H2>
+<H2>Bruno Gaudio - Desenvolvedor Java || PL/SQL || Javascript</H2>
 
 - 🌱 Atualmente estou trabalhando Com Aplicações Web e Implementação em Java || SpringBoot || Javascript || PL/SQL.
 - 🤔 E para conhecer o Mundo do Full-Stack, Front-End com HTML || CSS e React.Js
