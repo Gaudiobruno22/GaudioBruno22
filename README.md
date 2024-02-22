@@ -1,9 +1,22 @@
 
 <H2>Bruno Gaudio - Desenvolvedor Java || PL/SQL || Javascript</H2>
 
-- 🌱 Atualmente estou trabalhando Com Aplicações Web e Implementação em Java || SpringBoot || Javascript || PL/SQL.
-- 🤔 E para conhecer o Mundo do Full-Stack, Front-End com HTML || CSS e React.Js
-- Colaborações e Interações sempre serão Bem Vindas! </br></br>
+- 🌱 25 anos, Atuando na área de TI e Desenvolvimento desde Outubro/2021.
+- 🤔 Apaixonado pelo mundo da tecnologia, e atualmente como Desenvolvedor de Software Java, PL/SQL | Spring e SpringBoot | Javascript
+- 🌱 Aprimorando e me aprofundando Arquitetura e Padrão de Testes Unitários e me Aventurando em Cloud com Docker para Aperfeiçoar as Skills em DevOps!
+  
+<div style="display: inline_block" "text-align: center">
+<H2>Skills e Tecnologias:</H2>
+<li>API Restful</li>
+<li>Micro Serviços</li>
+<li>JWT, Oauth2</li>
+<li>JUnit5, Mockito</li>
+<li>Scrum Agile</li>
+<li>PL/SQL</li>
+<li>API Gateway</li>
+<li>Oracle Database</li>
+<li>Hibernate | JPA</li><br>
+</div>
 
 <div style="display: inline_block" "text-align: center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaudioBruno22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
